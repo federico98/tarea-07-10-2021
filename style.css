@@ -1,0 +1,19 @@
+body{
+    background-image: url(/imagenes/Wave-Wallpapers-1.jpg);
+    width: 250px;
+}
+
+h1{
+    font-size: 50px;
+    color: lightyellow;
+    text-align: center;
+}
+h2{
+    color: lightyellow;
+}
+ul{
+    color: aqua;
+}
+p{
+    color: aqua;
+}
